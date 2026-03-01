@@ -44,11 +44,17 @@ Dataset Size : 500 student records
 
 
 Feature	Description:
+
 student_id - Unique student identifier
+
 lms_logins_per_week  - Weekly LMS login frequency
+
 avg_assignment_delay_days - Average delay in assignment submission
+
 attendance_percentage -	Attendance consistency
+
 activity_diversity - Variety of LMS activities
+
 night_activity_ratio -	Proportion of late-night activity
 
 Feature Engineering (Behavioural Logic) :
