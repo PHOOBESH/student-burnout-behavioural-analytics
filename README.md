@@ -116,8 +116,11 @@ Explainability: Behavioural Triggers
 For each student, the system provides human-readable explanations, such as:
 
 -“Significant behavioural routine deviation”
+
 -“Chronic assignment procrastination”
+
 -“Silent disengagement behaviour”
+
 -“Stable academic behaviour”
 
 This ensures transparency and trust in predictions.
